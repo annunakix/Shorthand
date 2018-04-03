@@ -7,7 +7,7 @@ Shorthand desires to be a paradigm shifting way to communicate artfully and logi
 
 This is a project with the heart to give Camden limbs, in a metaphoric sense, by providing a method of arm control inputs (gestures) that translate to keyboard keystrokes, or phonetics, or a number of different language outputs.
 
-Before I share the original concept, please note that the method of input is in discussion and may not completely match the concept below. This is not to be considered the project specification. Shorthand is simply conceptual at this stage though we have a beginning team made of programming, a few parts, know-how, don't-yet-know-how, and determination. As Camden so often says, "I got this". Well buddy, we got this with you.
+Before I share the original concept, please note that the method of input is in discussion and may not completely match the concept below. This is not to be considered the project specification. Shorthand is simply conceptual at this stage though we have a beginning team made of programmers, designers, coordinators, a few parts, know-how, don't-yet-know-how, and determination. As Camden so often says, "I got this". Well buddy, we got this with you.
 
 So, without further adieu, the original concept is outlined below:
 
