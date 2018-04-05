@@ -36,3 +36,7 @@ Interface option to switch to voice dictation / control through existing Google 
   * PPE
   * HDMI monitor
   * USB Keyboard / Mouse
+
+**Useful Repositories**
+  * enclosure-picroft: Mycroft interface for Raspberry Pi environment - https://github.com/MycroftAI/enclosure-picroft
+  * awesome-raspberry-pi: Curated list of git Pi repositories - https://github.com/blackout314/awesome-raspberry-pi
